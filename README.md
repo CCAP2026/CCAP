@@ -1,6 +1,6 @@
 # CCAP
 
-**Cross-Modal Consistency–Aware Structured Pruning for Efficient Speech Enhancement with Air- and Bone-Conduction Microphones**
+**Cross-Modal Consistency-Aware Structured Pruning for Efficient Speech Enhancement with Air- and Bone-Conduction Microphones**
 
 This repository provides the **channel scoring utilities** of **CCAP** (Cross-modal Consistency–Aware structured Pruning).
 Specifically, it implements:
